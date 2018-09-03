@@ -2,7 +2,7 @@
 此次开发，仅实现简单的消息提醒/推送功能。
 
 ## 微信小程序 ##
-> 在开发中遇到问题，可以查看 [微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/index.html)
+> 在开发中遇到问题，可以查看 [微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/index.html)  
 > 此次开发过程来自 [imooc 入门微信小程序开发](https://www.imooc.com/learn/974)
 
 ### 小程序介绍 ###
@@ -15,9 +15,7 @@
 ### 小程序开发流程 ###
 1. 注册小程序
 2. 代码开发
-3. 提审
-  - [x] 上线
-  - [ ] 未通过 (demo不行，违规不行, ...)
+3. 提审上线 (不能通过demo和违规行为)
 4. 完成项目
 
 这次的开发，估计在代码开发就结束了，至于上线，需要在添加其他的功能。
